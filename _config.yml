@@ -1,0 +1,12 @@
+# Site settings
+title: ns.aksw.org
+description: ""
+baseurl: ""
+parent: "http://aksw.org"
+url: "http://ns.aksw.org"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
