@@ -50,6 +50,7 @@ This schema model provides the vocabulary to configure the installation (e.g. te
 …
 
 * [Vocabulary (Turtle)](https://raw.githubusercontent.com/AKSW/vocab.hp/master/schema.ttl)
+* [Repository](https://github.com/AKSW/vocab.hp)
 
 ## Vocabulary for Library Electronic Resource Management
 
